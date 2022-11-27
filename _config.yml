@@ -4,8 +4,8 @@ author: "Typewriter Goblin"
 description:
   "A searchable Icara 5ish spell list, sorted by class and level."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://grimoire.thebombzen.xyz" # the base hostname & protocol for your site
-source-url: "https://github.com/thebombzen/grimoire/"
+#url: "https://grimoire.thebombzen.xyz" # the base hostname & protocol for your site
+source-url: "https://github.com/Typewritergoblin/icara-spellbook/"
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
