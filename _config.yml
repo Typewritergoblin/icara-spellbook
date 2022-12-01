@@ -3,9 +3,26 @@ title: "Icara 5ish Spellbook"
 author: "Typewriter Goblin"
 description:
   "A searchable Icara 5ish spell list, sorted by class and level."
-baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "https://grimoire.thebombzen.xyz" # the base hostname & protocol for your site
-source-url: "https://github.com/Typewritergoblin/icara-spellbook/"
+
+{% assign date = '2020-04-13T10:20:00Z' %}
+
+- Original date - {{ date }}
+- With timeago filter - {{ date | timeago }}
+
+# Gemfile
+
+source 'https://rubygems.org'
+
+gem 'jekyll', '~> 4.2'
+
+group :jekyll_plugins do
+  gem 'jekyll-timeago', '~> 0.13.1'
+end
+
+baseurl: "/icara-spellbook" # the subpath of your site, e.g. /blog/
+url: "https://github.com/Typewritergoblin" # the base hostname & protocol for your site
+#source-url: "https://github.com/Typewritergoblin/icara-spellbook/"
+website: 
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
