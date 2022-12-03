@@ -4,7 +4,7 @@ The Icara Spellbook is a mobile-friendly spellbook for Icara Homebrew content th
 
 See the latest compiled build here: [https://grimoire.thebombzen.xyz/](https://grimoire.thebombzen.xyz/)
 
-The Spellbook is forked from [thebombzen/grimoire](https://github.com/thebombzen/grimoire/), which contains the official 5e content. This content is NOT official content.
+The Spellbook is forked from [thebombzen/grimoire](https://github.com/thebombzen/grimoire/), which contains the official 5e content. This content is NOT official content. As official content is replaced with homebrew content, the source will be updated to Icara-5ish.
 
 ## Structure
 Spells can be found inside `_posts/`. Each spell gets its own post, written and stored as a [Markdown](https://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](https://jekyllrb.com) to process the posts properly.
@@ -15,5 +15,4 @@ If you'd like to help fill out the rest of the spells from the PHB or another so
 2. Submit a pull request for the spell(s) when you're finished, and that's it! Thank you so much. :)
 
 ## Build Instructions
-I've edited _config.yml for my own build purposes, but if you've got [Jekyll](https://jekyllrb.com) set up locally, the following should create the build from your friendly command line terminal:
-`jekyll serve -Vw --no-watch --baseurl ""`
+I've edited _config.yml for my own build purposes, and I'm not using Jekyll locally at all, instead building and publishing via a github action to Github pages. Review the documentation for basic instructions. (https://jekyllrb.com/docs/continuous-integration/github-actions/)

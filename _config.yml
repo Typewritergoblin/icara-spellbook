@@ -6,7 +6,7 @@ description:
 
 baseurl: "/icara-spellbook" # the subpath of your site, e.g. /blog/
 url: "https://github.com/Typewritergoblin" # the base hostname & protocol for your site
-#source-url: "https://github.com/Typewritergoblin/icara-spellbook/"
+source-url: "https://github.com/Typewritergoblin/icara-spellbook/"
 website: 
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
