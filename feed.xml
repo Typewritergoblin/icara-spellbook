@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Icara 5ish Spellbook</title>
+    <description>A searchable Icara 5ish spell list, sorted by class and level.</description>
+    <link>https://github.com/Typewritergoblin/icara-spellbook/</link>
+    <atom:link href="https://github.com/Typewritergoblin/icara-spellbook/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 03 Dec 2022 21:24:01 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Dec 2022 21:24:01 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Create Spelljamming Helm</title>
+        <description>&lt;p&gt;&lt;strong&gt;5th-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a crystal rod worth at least 5,000 gp, which the spell consumes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;Holding the rod used in the casting of the spell, you touch a Large or smaller chair that is unoccupied. The rod disappears, and the chair is transformed into a spelljamming helm.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/create-spelljamming-helm</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/create-spelljamming-helm</guid>
+        
+        <category>artificer</category>
+        
+        <category>wizard</category>
+        
+        <category>level5</category>
+        
+        <category>action</category>
+        
+        <category>transmutation</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Air Bubble</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 24 hours&lt;/p&gt;
+
+&lt;p&gt;You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends. If the creature has more than one head, the globe of air appears around only one of its heads (which is all the creature needs to avoid suffocation, assuming that all its heads share the same respiratory system).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/air-bubble</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/air-bubble</guid>
+        
+        <category>artificer</category>
+        
+        <category>druid</category>
+        
+        <category>ranger</category>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level2</category>
+        
+        <category>action</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Wristpocket</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level conjuration (ritual)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;You flick your wrist, causing one object in your hand to vanish. The object, which only you can be holding and can weigh no more than 5 pounds, is transported to an extradimensional space, where it remains for the duration.&lt;/p&gt;
+
+&lt;p&gt;Until the spell ends, you can use your action to summon the object to your free hand, and you can use your action to return the object to the extradimensional space. An object still in the pocket plane when the spell ends appears in your space, at your feet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/wristpocket</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/wristpocket</guid>
+        
+        <category>level2</category>
+        
+        <category>action</category>
+        
+        <category>concentration</category>
+        
+        <category>ritual</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Time Ravage</title>
+        <description>&lt;p&gt;&lt;strong&gt;9th-level necromancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution saving throw, taking 10dl2 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and saving throws, and its walking speed is halved. Only the &lt;a href=&quot;wish&quot;&gt;&lt;em&gt;wish&lt;/em&gt;&lt;/a&gt; spell or the &lt;a href=&quot;greater-restoration&quot;&gt;&lt;em&gt;greater restoration&lt;/em&gt;&lt;/a&gt; cast with a 9th-level spell slot can end these effects and restore the target to its previous age.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/time-ravage</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/time-ravage</guid>
+        
+        <category>level9</category>
+        
+        <category>action</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Tether Essence</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level necromancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a spool of platinum cord worth at least 250 gp, which the spell consumes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;Two creatures you can see within range must make a Constitution saving throw, with disadvantage if they are within 30 feet of each other. Either creature can willingly fail the save. If either save succeeds, the spell has no effect. If both saves fail, the creatures are magically linked for the duration, regardless of the distance between them. When damage is dealt to one of them, the same damage is dealt to the other one. If hit points are restored to one of them, the same number of hit points are restored to the other one. If either of the tethered creatures is reduced to 0 hit points, the spell ends on both. If the spell ends on one creature, it ends on both.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/tether-essence</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/tether-essence</guid>
+        
+        <category>level7</category>
+        
+        <category>action</category>
+        
+        <category>concentration</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Temporal Shunt</title>
+        <description>&lt;p&gt;&lt;strong&gt;5th-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 reaction, taken when a creature you can see makes an attack roll or starts to cast a spell&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 120 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 round&lt;/p&gt;
+
+&lt;p&gt;You target the triggering creature, which must succeed on a Wisdom saving throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn’t remember you casting the spell or being affected by it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/temporal-shunt</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/temporal-shunt</guid>
+        
+        <category>level5</category>
+        
+        <category>reaction</category>
+        
+        <category>transmutation</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Reality Break</title>
+        <description>&lt;p&gt;&lt;strong&gt;8th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a crystal prism)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;You shatter the barriers between realities and timelines, thrusting a creature into turmoil and madness. The target must succeed on a Wisdom saving throw, or it can’t take reactions until the spell ends. The affected target must also roll a d1O at the start of each of its turns; the number rolled determines what happens to the target, as shown on the Reality Break Effects table.&lt;/p&gt;
+
+&lt;p&gt;At the end of each of its turns, the affected target can repeat the Wisdom saving throw, ending the spell on itself on a success.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;d10&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Effect&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1-2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Vision of the Far Realm.&lt;/strong&gt; The target takes 6d12 psychic damage, and it is stunned until the end of the turn.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3-5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Rending Rift.&lt;/strong&gt; The target must make a Dexterity saving throw, taking 8d12 force damage on a failed save, or half as much damage on a successful one.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6-8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Wormhole.&lt;/strong&gt; The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes 10d12 force damage and is knocked prone.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9-10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Chill of the Dark Void.&lt;/strong&gt; The target takes 10d12 cold damage, and it is blinded until the end of the turn.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/reality-break</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/reality-break</guid>
+        
+        <category>level8</category>
+        
+        <category>action</category>
+        
+        <category>concentration</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Ravenous Void</title>
+        <description>&lt;p&gt;&lt;strong&gt;9th-level evocation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 1000 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a small, nine-pointed star made of iron)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;You create a 20-foot-radius sphere of destructive gravitational force centered on a point you can see within range. For the spell’s duration, the sphere and any space within 100 feet of it are difficult terrain, and nonmagical objects fully inside the sphere are destroyed if they aren’t being worn or carried.&lt;/p&gt;
+
+&lt;p&gt;When the sphere appears and at the start of each of your turns until the spell ends, unsecured objects within 100 feet of the sphere are pulled toward the sphere’s center, ending in an unoccupied space as close to the center as possible.&lt;/p&gt;
+
+&lt;p&gt;A creature that starts its turn within 100 feet of the sphere must succeed on a Strength saving throw or be pulled straight toward the sphere’s center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is restrained until it is no longer in the sphere. If
+the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 hit points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/ravenous-void</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/ravenous-void</guid>
+        
+        <category>level9</category>
+        
+        <category>action</category>
+        
+        <category>concentration</category>
+        
+        <category>evocation</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Pulse Wave</title>
+        <description>&lt;p&gt;&lt;strong&gt;3rd-level evocation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self (30-foot cone)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You create intense pressure, unleash it in a 30-foot cone, and decide whether the pressure pulls or pushes creatures and objects. Each creature in that cone must make a Constitution saving throw. A creature takes 6d6 force damage on a failed save, or have as much damage on a successful one. And every creature that fails the save is either pulled 15 feet toward you or pushed 15 feet away from you, depending on the choice you made for the spell.&lt;/p&gt;
+
+&lt;p&gt;In addition, unsecured objects that are completely within the cone are likewise pulled or pushed 15 feet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/pulse-wave</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/pulse-wave</guid>
+        
+        <category>level3</category>
+        
+        <category>action</category>
+        
+        <category>evocation</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Magnify Gravity</title>
+        <description>&lt;p&gt;&lt;strong&gt;1st-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 round&lt;/p&gt;
+
+&lt;p&gt;The gravity in a 10-foot-radius sphere centered on a point you can see within range increases for a moment. Each creature in the sphere on the turn when you cast the spell must make a Constitution saving throw. On a failed save, a creature takes 2d8 force damage, and its speed is halved until the end of its next turn. On a successful save, a creature takes half as much damage and suffers no reduction to its speed.&lt;/p&gt;
+
+&lt;p&gt;Until the start of your next turn, any object that isn’t being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://github.com/Typewritergoblin/icara-spellbook/spells/magnify-gravity</link>
+        <guid isPermaLink="true">https://github.com/Typewritergoblin/icara-spellbook/spells/magnify-gravity</guid>
+        
+        <category>level1</category>
+        
+        <category>action</category>
+        
+        <category>transmutation</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+  </channel>
+</rss>
