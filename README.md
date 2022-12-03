@@ -2,7 +2,7 @@
 
 The Icara Spellbook is a mobile-friendly spellbook for Icara Homebrew content that organizes spell lists by class and level.
 
-See the latest compiled build here: [https://grimoire.thebombzen.xyz/](https://grimoire.thebombzen.xyz/)
+See the latest compiled build here: [https://typewritergoblin.github.io/icara-spellbook/](https://typewritergoblin.github.io/icara-spellbook/)
 
 The Spellbook is forked from [thebombzen/grimoire](https://github.com/thebombzen/grimoire/), which contains the official 5e content. This content is NOT official content. As official content is replaced with homebrew content, the source will be updated to Icara-5ish.
 
